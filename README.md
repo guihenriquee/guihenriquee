@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-993789275/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.moraiis_)
 
-![Guihenriquee GitHub stats](https://github-readme-stats.vercel.app/api?username=Guihenriquee&show_icons=true&theme=dracula)
+![Guihenriquee GitHub stats](https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenriquee&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias e ferramentas que utilizo:
 
