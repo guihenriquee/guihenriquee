@@ -5,9 +5,9 @@
 
 ![Guihenriquee GitHub stats](https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&size_weight=0.5&count_weight=0.5)
+![Guihenriquee Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&size_weight=0.5&count_weight=0.5)
 
-## Tecnologias e ferramentas que utilizo:
+## Tecnologias e ferramentas que eu utilizo:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,7 @@
 
 </div><br/>
 
-Atualmente, estou em busca da minha primeira oportunidade profissional nesta empolgante indústria. Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos. 🖥️🤖🤍
+Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos. 🖥️🤖🤍
 
 ## E-mail para contato:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermehenriquemraissilva@gmail.com)
