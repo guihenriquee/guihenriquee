@@ -25,7 +25,7 @@
 
 </div><br/>
 
-Atualmente, estou em busca da minha primeira oportunidade profissional nesta empolgante indústria. Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos.
+Atualmente, estou em busca da minha primeira oportunidade profissional nesta empolgante indústria. Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos. 🖥️🤖🤍
 
 ## E-mail para contato:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermehenriquemraissilva@gmail.com)
