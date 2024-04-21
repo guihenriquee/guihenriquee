@@ -26,4 +26,4 @@
 </div><br/>
 
 ## Um pouco sobre mim!
-Atualmente, estou em busca da minha primeira oportunidade profissional nesta empolgante indústria. Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos. 🖥️🤍
+Determinado e curioso, apaixonado por tecnologia e sua capacidade de transformar o mundo ao nosso redor. Tenho como objetivo me inserir em uma equipe dinâmica e colaborativa, onde possa aprender com profissionais experientes e contribuir para projetos significativos. 🖥️🤍
