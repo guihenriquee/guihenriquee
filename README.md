@@ -26,10 +26,10 @@
 <!-- GithubStats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=9932CC&text_color=fff&bg_color=0d1117" alt="guihenriquee github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&layout=compact&hide_border=true&title_color=800080&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&layout=compact&hide_border=true&title_color=800080&text_color=fff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=c9d1d9&line=9932CC&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=fff&line=9932CC&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Links -->
