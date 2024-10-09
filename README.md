@@ -1,10 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme+Henrique!;A+passionate+Programming+student+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<!--  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
+
+<!--  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme+Henrique!;A+passionate+Programming+student+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <!-- Presentation -->
 <p>
-
   - 🌱 I'm currently studying Systems Analysis and Development at UNIFIA.
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work with Software Development and AI.
@@ -24,11 +25,11 @@
 
 <!-- GithubStats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="guihenriquee github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&layout=compact&hide_border=true&title_color=15e5a6&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=9932CC&text_color=fff&bg_color=0d1117" alt="guihenriquee github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&layout=compact&hide_border=true&title_color=800080&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=c9d1d9&line=9932CC&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Links -->
@@ -52,7 +53,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -61,7 +61,6 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
- 
   </div>
   
   <!-- Skills: Libraries -->
@@ -74,5 +73,5 @@
   </div>
 
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
+<!--  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
