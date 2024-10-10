@@ -11,7 +11,7 @@
 <p>
   - 🌱 I'm currently studying Systems Analysis and Development at UNIFIA.
 
-  - 🔭 I'm looking for my first job opportunity and my dream is to one day work with Software Development and AI.
+  - 🔭 I'm looking for my first job opportunity and my dream is to one day be able to work with Software Development and AI.
 </p>
 
 
