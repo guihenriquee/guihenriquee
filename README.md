@@ -11,7 +11,7 @@
 <p>
   - 🌱 I'm currently studying Systems Analysis and Development at UNIFIA.
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with Software Development and AI.
+  - 🔭 I'm looking for my first job opportunity and my dream is to one day work with Software Development and AI.
 </p>
 
 
@@ -19,11 +19,11 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 21 years old and currently live in Brazil. I have an intermediate level of English and experience in: HTML5, CSS3, JavaScript, Java and Data Analysis.
+  - 💬 I'm 21 years old and currently live in Brazil. I have an intermediate level of English and experience in: HTML5, CSS3, JavaScript and Java.
 
   - ⚡ I love playing video games, playing football, watching movies and series, as well as drawing. I believe that these hobbies stimulate creativity, focus and the ability to solve problems in innovative ways.
 
-  - 💡 Determined and curious, passionate about technology and its ability to transform the world around us. Always looking to learn new technologies and contribute creative solutions. \o/
+  - 💡 Determined and curious, passionate about technology and its ability to transform the world around us. Always looking to learn new technologies and contribute creative solutions.
 </details>
 <br></br>
 
@@ -71,6 +71,8 @@
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
 </div>
 
 
