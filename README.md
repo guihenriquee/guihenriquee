@@ -3,27 +3,28 @@
 
 
 <!-- Sign -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme+Henrique!;A+passionate+Programming+student+from+Brazil.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Guilherme+Henrique!;Um+apaixonado+estudante+de+programação.;Seja+muito+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 <br></br>
 
 
 <!-- Presentation -->
 <p>
-  - 🌱 I'm currently studying Systems Analysis and Development at UNIFIA.
+  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFIA.
 
-  - 🔭 I'm looking for my first job opportunity and my dream is to one day be able to work with Software Development and AI.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego e meu sonho é um dia poder trabalhar com Desenvolvimento de Software e IA.
 </p>
 
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim
+</summary>
 
-  - 💬 I'm 21 years old and currently live in Brazil. I have an intermediate level of English and experience in: HTML5, CSS3, JavaScript and Java.
+  - 💬 Tenho 21 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript e Java.
 
-  - ⚡ I love playing video games, playing football, watching movies and series, as well as drawing. I believe that these hobbies stimulate creativity, focus and the ability to solve problems in innovative ways.
+  - ⚡ Adoro jogar videogame, jogar futebol, assistir filmes e séries, além de desenhar. Acredito que esses hobbies estimulam a criatividade, o foco e a capacidade de resolver problemas de forma inovadora.
 
-  - 💡 Determined and curious, passionate about technology and its ability to transform the world around us. Always looking to learn new technologies and contribute creative solutions.
+  - 💡 Determinado e curioso, apaixonado pela tecnologia e pela sua capacidade de transformar o mundo que nos rodeia. Sempre buscando aprender novas tecnologias e contribuir com soluções criativas.
 </details>
 <br></br>
 
