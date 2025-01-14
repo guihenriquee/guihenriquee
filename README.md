@@ -21,7 +21,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim
+  <summary>👨‍💻 Mais sobre mim:
 </summary>
 
   - 💬 Tenho 21 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript e Java.
