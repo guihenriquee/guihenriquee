@@ -9,9 +9,12 @@
 
 <!-- Presentation -->
 <p>
+  
   - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFIA.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego e meu sonho é um dia poder trabalhar com Desenvolvimento de Software e IA.
+  - 🔭 Estou realizando meu primeiro estágio na área de TI como Suporte Técnico, onde lido com infraestrutura de redes, hardwares e softwares, adquirindo experiência prática na área.
+
+  - 🚀 Meu objetivo é evoluir profissionalmente e conquistar uma posição como Desenvolvedor Java, unindo meu aprendizado acadêmico e prático para desenvolver soluções eficientes e criativas.
 </p>
 
 
@@ -27,7 +30,6 @@
   - 💡 Determinado e curioso, apaixonado pela tecnologia e pela sua capacidade de transformar o mundo que nos rodeia. Sempre buscando aprender novas tecnologias e contribuir com soluções criativas.
 </details>
 <br></br>
-
 
 <!-- GithubStats -->
 <div align="center">  
@@ -58,7 +60,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
-  <h3>Programming Languages</h3>
+  <h3>Linguagens de Programação</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
@@ -79,13 +81,31 @@
 
 <!-- Skills: Libraries -->
 <div style="flex-basis: 48%;">
-  <h3>Libraries</h3>
+  <h3>Bibliotecas</h3>
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg">
   <img align="center" alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
+<br></br>
+<!-- Experience -->
+## 📋 Experiência
+<h3>Estagiário de TI - Suporte Técnico<h3>
+<p>
+  
+  -  Manutenção e suporte em hardware e software, identificando e resolvendo problemas de forma ágil.
+  
+  - Registro de atividades no sistema de chamados, incluindo diagnósticos, soluções aplicadas e status de atendimento, mantendo o histórico atualizado.
+    
+  - Configuração e manutenção de rede para garantir conectividade e funcionamento adequado da infraestrutura de TI.
+    
+  - Instalação de sistemas operacionais e softwares necessários para atividades administrativas.
+    
+  - Atendimento técnico em postos de saúde, escolas e outros órgãos públicos.
+    
+  - Auxílio na resolução de problemas e suporte às atividades diárias do setor.
+</p>
 
 <!-- Margin -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
