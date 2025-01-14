@@ -4,6 +4,7 @@
 
 <!-- Sign -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Guilherme+Henrique!;Um+apaixonado+estudante+de+programação.;Seja+muito+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+
 <br></br>
 
 
@@ -32,26 +33,25 @@
 
 
 <!-- Experience -->
-## 📋 Experiência
-<h3>Estagiário de TI - Suporte Técnico<h3>
-<div style="font-size: 14px;">
-  <p>
-  
-  - Manutenção e suporte em hardware e software, identificando e resolvendo problemas de forma ágil.
-  
-  - Registro de atividades no sistema de chamados, incluindo diagnósticos, soluções aplicadas e status de atendimento, mantendo o histórico atualizado.
-    
-  - Configuração e manutenção de rede para garantir conectividade e funcionamento adequado da infraestrutura de TI.
-    
-  - Instalação de sistemas operacionais e softwares necessários para atividades administrativas.
-    
-  - Atendimento técnico em postos de saúde, escolas e outros órgãos públicos.
-    
-    - Auxílio na resolução de problemas e suporte às atividades diárias do setor.
-  </p>
-</div>
+## 💼 Experiência
+
+<h4>Estagiário de TI - Suporte Técnico</h4>
+
+- Manutenção e suporte em hardware e software, identificando e resolvendo problemas de forma ágil.
+
+- Registro de atividades no sistema de chamados, incluindo diagnósticos, soluções aplicadas e status de atendimento.
+
+- Configuração e manutenção de rede para garantir conectividade e funcionamento adequado da infraestrutura de TI.
+
+- Instalação de sistemas operacionais e softwares necessários para atividades administrativas.
+
+- Atendimento técnico em postos de saúde, escolas e outros órgãos públicos.
+
+- Auxílio na resolução de problemas e suporte às atividades diárias do setor.
 
 <br></br>
+
+
 <!-- GithubStats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=9932CC&text_color=fff&bg_color=0d1117" alt="guihenriquee github stats" /> 
@@ -59,6 +59,7 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=fff&line=9932CC&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br></br>
 
 
@@ -80,7 +81,7 @@
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
-<div style="flex-basis: 48%;">
+<div style = "flex-basis: 48%;">
   <h3>Linguagens de Programação</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -108,6 +109,7 @@
   <img align="center" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
+
 
 <!-- Margin -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
