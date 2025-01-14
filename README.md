@@ -15,7 +15,7 @@
 
   - 🔭 Estou realizando meu primeiro estágio na área de TI como Suporte Técnico, onde lido com infraestrutura de redes, hardwares e softwares, adquirindo experiência prática na área.
 
-  - 🚀 Meu objetivo é evoluir profissionalmente e conquistar uma posição como Desenvolvedor Java, unindo meu aprendizado acadêmico e prático para desenvolver soluções eficientes e criativas.
+  - 🚀 Meu objetivo é evoluir profissionalmente e conquistar uma posição como Desenvolvedor Font-End ou Back-End, unindo meu aprendizado acadêmico e prático para desenvolver soluções eficientes e criativas.
 </p>
 
 
