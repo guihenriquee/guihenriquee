@@ -29,8 +29,29 @@
 
   - 💡 Determinado e curioso, apaixonado pela tecnologia e pela sua capacidade de transformar o mundo que nos rodeia. Sempre buscando aprender novas tecnologias e contribuir com soluções criativas.
 </details>
-<br></br>
 
+
+<!-- Experience -->
+## 📋 Experiência
+<h3>Estagiário de TI - Suporte Técnico<h3>
+<div style="font-size: 14px;">
+  <p>
+  
+  - Manutenção e suporte em hardware e software, identificando e resolvendo problemas de forma ágil.
+  
+  - Registro de atividades no sistema de chamados, incluindo diagnósticos, soluções aplicadas e status de atendimento, mantendo o histórico atualizado.
+    
+  - Configuração e manutenção de rede para garantir conectividade e funcionamento adequado da infraestrutura de TI.
+    
+  - Instalação de sistemas operacionais e softwares necessários para atividades administrativas.
+    
+  - Atendimento técnico em postos de saúde, escolas e outros órgãos públicos.
+    
+    - Auxílio na resolução de problemas e suporte às atividades diárias do setor.
+  </p>
+</div>
+
+<br></br>
 <!-- GithubStats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=9932CC&text_color=fff&bg_color=0d1117" alt="guihenriquee github stats" /> 
@@ -87,25 +108,6 @@
   <img align="center" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
-
-<br></br>
-<!-- Experience -->
-## 📋 Experiência
-<h3>Estagiário de TI - Suporte Técnico<h3>
-<p>
-  
-  -  Manutenção e suporte em hardware e software, identificando e resolvendo problemas de forma ágil.
-  
-  - Registro de atividades no sistema de chamados, incluindo diagnósticos, soluções aplicadas e status de atendimento, mantendo o histórico atualizado.
-    
-  - Configuração e manutenção de rede para garantir conectividade e funcionamento adequado da infraestrutura de TI.
-    
-  - Instalação de sistemas operacionais e softwares necessários para atividades administrativas.
-    
-  - Atendimento técnico em postos de saúde, escolas e outros órgãos públicos.
-    
-  - Auxílio na resolução de problemas e suporte às atividades diárias do setor.
-</p>
 
 <!-- Margin -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
