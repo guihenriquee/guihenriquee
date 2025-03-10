@@ -24,7 +24,7 @@
   <summary>👨‍💻 Mais sobre mim:
 </summary>
 
-  - 💬 Tenho 21 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript e Java.
+  - 💬 Tenho 21 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript, Java, Python e Banco de Dados.
 
   - ⚡ Adoro jogar videogame, jogar futebol, assistir filmes e séries, além de desenhar. Acredito que esses hobbies estimulam a criatividade, o foco e a capacidade de resolver problemas de forma inovadora.
 
