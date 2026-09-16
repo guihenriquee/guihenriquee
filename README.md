@@ -38,15 +38,15 @@
 <h4>Analista de Suporte</h4>
 
 - Responsável pela gestão e manutenção de um parque com aproximadamente 200 impressoras para a Prefeitura Municipal de Amparo.
-- 
+  
 - Instalação, configuração e suporte técnico em locais estratégicos como postos de saúde, escolas e sedes administrativas.
-- 
+  
 - Gerenciamento completo de chamados via sistema GLPI, desde a análise da solicitação até a documentação final da solução.
-- 
+  
 - Diagnóstico e substituição de peças de hardware (painéis, etc.) e insumos (toner, fotocondutor) para garantir a alta disponibilidade dos equipamentos.
-- 
+  
 - Controle de estoque de peças e suprimentos, com elaboração e envio de relatórios periódicos para assegurar a disponibilidade de materiais.
-- 
+  
 - Organização da logística reversa para a coleta e descarte apropriado de insumos utilizados, como toners e fotocondutores.
 
 <br></br>
