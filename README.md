@@ -68,18 +68,6 @@
 
 <br></br>
 
-
-<!-- GithubStats -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guihenriquee&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=9932CC&text_color=fff&bg_color=0d1117" alt="guihenriquee github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriquee&layout=compact&hide_border=true&title_color=800080&text_color=fff&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guihenriquee&bg_color=0d1117&color=fff&line=9932CC&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br></br>
-
-
 <!-- Links: Social Medias -->
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-guilherme-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
