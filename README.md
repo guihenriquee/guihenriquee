@@ -11,11 +11,11 @@
 <!-- Presentation -->
 <p>
   
-  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFIA.
+  - 🌱 Atualmente estou cursando uma Pós-Graduação em Engenharia de Software pela Estácio.
 
-  - 🔭 Estou realizando meu primeiro estágio na área de TI como Suporte Técnico, onde lido com infraestrutura de redes, hardwares e softwares, adquirindo experiência prática na área.
+  - 🔭 Atuando na área de Suporte de TI, sou responsável pela gestão e manutenção de impressoras para a Prefeitura Municipal de Amparo/SP. Minha rotina inclui o gerenciamento de chamados via GLPI, manutenção de hardware e suporte direto ao usuário em órgãos públicos essenciais.
 
-  - 🚀 Meu objetivo é evoluir profissionalmente e conquistar uma posição como Desenvolvedor Font-End ou Back-End, unindo meu aprendizado acadêmico e prático para desenvolver soluções eficientes e criativas.
+  - 🚀 Meu objetivo é evoluir profissionalmente e conquistar uma posição como Desenvolvedor Back-End, unindo meu aprendizado acadêmico e prático para desenvolver soluções eficientes e criativas.
 </p>
 
 
@@ -24,7 +24,7 @@
   <summary>👨‍💻 Mais sobre mim:
 </summary>
 
-  - 💬 Tenho 22 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript, Java, Python e Banco de Dados.
+  - 💬 Tenho 23 anos e atualmente moro no Brasil. Possuo nível intermediário de inglês e experiência em: HTML5, CSS3, JavaScript, Java, Python e Banco de Dados.
 
   - ⚡ Adoro jogar videogame, jogar futebol, assistir filmes e séries, além de desenhar. Acredito que esses hobbies estimulam a criatividade, o foco e a capacidade de resolver problemas de forma inovadora.
 
@@ -33,7 +33,24 @@
 
 
 <!-- Experience -->
-## 💼 Experiência
+## 💼 Experiências
+
+<h4>Analista de Suporte</h4>
+
+- Responsável pela gestão e manutenção de um parque com aproximadamente 200 impressoras para a Prefeitura Municipal de Amparo.
+- 
+- Instalação, configuração e suporte técnico em locais estratégicos como postos de saúde, escolas e sedes administrativas.
+- 
+- Gerenciamento completo de chamados via sistema GLPI, desde a análise da solicitação até a documentação final da solução.
+- 
+- Diagnóstico e substituição de peças de hardware (painéis, etc.) e insumos (toner, fotocondutor) para garantir a alta disponibilidade dos equipamentos.
+- 
+- Controle de estoque de peças e suprimentos, com elaboração e envio de relatórios periódicos para assegurar a disponibilidade de materiais.
+- 
+- Organização da logística reversa para a coleta e descarte apropriado de insumos utilizados, como toners e fotocondutores.
+
+<br></br>
+
 
 <h4>Estagiário de TI - Suporte Técnico</h4>
 
@@ -65,9 +82,9 @@
 
 <!-- Links: Social Medias -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-993789275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
+  <a href="https://www.linkedin.com/in/dev-guilherme-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
   <a href = "mailto:guilhermehenriquemraissilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/gui.moraiis_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/gui_henriquee_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br></br>
 
