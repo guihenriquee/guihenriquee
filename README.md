@@ -77,13 +77,6 @@
 <br></br>
 
 
-<!-- GIF -->
-<p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/e16bc843-681c-4117-8564-e27fee9440d1" alt="GIF">
-</p>
-<br></br>
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style = "flex-basis: 48%;">
